@@ -6,7 +6,7 @@ In this repository, you will find updated C and C++ solutions for all HackerRank
 <br />
 Repo made by **[HackerRankGPT - Solve HackerRank coding problems <ins>during your coding interview, in real-time and undetectable</ins>](https://hackerrank.solutions?s=github-c-repo)** 😎
 
-## List of problems and solutions in C
+## List of HackerRank problems and solutions in C
 
 - Hello World! in C
 - Playing With Characters
