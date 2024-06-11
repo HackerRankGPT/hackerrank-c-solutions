@@ -6,7 +6,23 @@ In this repository, you will find updated C and C++ solutions for all HackerRank
 <br />
 Repo made by **[HackerRankGPT - Solve HackerRank coding problems <ins>during your coding interview, in real-time and undetectable</ins>](https://hackerrank.solutions?s=github-c-repo)** 😎
 
+## List of problems and solutions in C
 
+- Hello World! in C
+- Playing With Characters
+- Sum and Difference of Two Numbers
+- Functions in C
+- Pointers in C
+- Conditional Statements in C
+- For Loop in C
+- Sum of Digits of a Five Digit Number
+- Bitwise Operators
+- Printing Pattern Using Loops
+- 1D Arrays in C
+- Array Reversal
+- Printing Tokens
+- Digit Frequency
+- Dynamic Array in C
 
 ## 💡 Why should you I use HackerRankGPT? 
 
